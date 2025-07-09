@@ -1,0 +1,5 @@
+train: data/images
+val: val/images
+
+nc: 9
+names: ["22", "23", "24", "25", "26", "27", "28", "номер", "текст"]

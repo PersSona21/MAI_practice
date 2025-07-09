@@ -1,0 +1,4 @@
+Text: короче, Number: none, Confidence: none, Bbox: none
+Text: а, Number: none, Confidence: none, Bbox: none
+Text: теория, Number: none, Confidence: none, Bbox: none
+Text: Аллена, Number: none, Confidence: none, Bbox: none

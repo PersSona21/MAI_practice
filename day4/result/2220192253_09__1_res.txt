@@ -1,0 +1,17 @@
+Text: частота, Number: none, Confidence: none, Bbox: none
+Text: встречаемость, Number: none, Confidence: none, Bbox: none
+Text: заболевшего, Number: none, Confidence: none, Bbox: none
+Text: фенотипа, Number: none, Confidence: none, Bbox: none
+Text: а, Number: none, Confidence: none, Bbox: none
+Text: -с, Number: none, Confidence: none, Bbox: none
+Text: 0,99., Number: none, Confidence: none, Bbox: none
+Text: 0,01, Number: none, Confidence: none, Bbox: none
+Text: а, Number: none, Confidence: none, Bbox: none
+Text: -с, Number: none, Confidence: none, Bbox: none
+Text: -с, Number: none, Confidence: none, Bbox: none
+Text: 0,198, Number: none, Confidence: none, Bbox: none
+Text: частоты, Number: none, Confidence: none, Bbox: none
+Text: всех, Number: none, Confidence: none, Bbox: none
+Text: фенотипов, Number: none, Confidence: none, Bbox: none
+Text: популяр, Number: none, Confidence: none, Bbox: none
+Text: отдыхали, Number: none, Confidence: none, Bbox: none
